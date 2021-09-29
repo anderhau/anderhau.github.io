@@ -1,5 +1,5 @@
 # Site
-#repository:  anderhau/anderhau.github.io
+repository: anderhau/anderhau.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -87,7 +87,8 @@ content:
             - Maintain knowledge on all complex policies and coverage details
             - Develop new referrals and create new lead for the sales team through my existing clients.
             
- - layout: left
+    layout: list # Type of content section (list/text)
+    content:
         title: Medilink International Agency (China) Co., Ltd
         sub_title: Pacific Prime, Beijing Office
         link: https://pacificprime.cn/en/
