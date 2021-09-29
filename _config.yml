@@ -54,7 +54,7 @@ content:
     content:
       - layout: left
         title: Medilink International Agency (China) Co., Ltd
-        location: Pacific Prime - Beijing Office
+        title: Pacific Prime - Beijing Office
         link: https://pacificprime.cn/en/
         # link_text: https://pacificprime.cn/en/
         sub_title: Relationship Manager
@@ -70,6 +70,8 @@ content:
             
       - layout: left   
         title: 
+        - content:
+            sub_title: Pacific Prime - Beijing Office
         link: https://pacificprime.cn/en/
         # link_text: https://pacificprime.cn/en/
         sub_title: Consultant
