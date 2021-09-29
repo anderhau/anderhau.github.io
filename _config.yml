@@ -54,7 +54,7 @@ content:
     content:
       - layout: left
         title: | # this will include new lines to allow paragraphs
-            Pacific Prime 
+            Pacific Prime
             (Medilink International Agency (China) Co., Ltd)
         link: https://pacificprime.cn/en/
         # link_text: https://pacificprime.cn/en/
