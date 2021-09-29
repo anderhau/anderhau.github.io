@@ -82,11 +82,12 @@ content:
           Founded in 1999, Pacific Prime has grown to be one of the largest insurance intermediaries in Asia. Pacific Prime has over 120,000 clients in over 130 countries.As part of an international group with offices in Hong Kong, Singapore, Dubai and Shanghai, we are able to consistently offer our customers the best service, backed by more than a decade of experience developing innovative health insurance solutions for our clients.
           
         description: | # this will include new lines to allow paragraphs
-            - Advise on renewal of insurance and offer alternatives with a focus on client experience and risk management
-            - Aim to preserve client portfolio and improve client retention
-            - Maintain knowledge on all complex policies and coverage details
-            - Develop new referrals and create new lead for the sales team through my existing clients.
+            Advise on renewal of insurance and offer alternatives with a focus on client experience and risk management
+            Aim to preserve client portfolio and improve client retention
+            Maintain knowledge on all complex policies and coverage details
+            Develop new referrals and create new lead for the sales team through my existing clients.
             
+      - layout: left   
         title: Medilink International Agency (China) Co., Ltd
         sub_title: Pacific Prime, Beijing Office
         link: https://pacificprime.cn/en/
