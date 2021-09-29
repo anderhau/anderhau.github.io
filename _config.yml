@@ -53,13 +53,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Pacific Prime (Medilink International Agency (China) Co., Ltd)
+        title: Pacific Prime
         link: https://pacificprime.cn/en/
         # link_text: https://pacificprime.cn/en/
         sub_title: Relationship Manager (Beijing Office)
         caption: December 2019 – April 2020
         quote: >
-          Founded in 1999, Pacific Prime has grown to be one of the largest insurance intermediaries in Asia with offices in Hong Kong, Singapore, Thailand, Shanghai and Beijing. Pacific Prime has over 120,000 clients in over 130 countries. 
+          <mark>Founded in 1999, Pacific Prime has grown to be one of the largest insurance intermediaries in Asia with offices in Hong Kong, Singapore, Thailand, Shanghai and Beijing. Pacific Prime has over 120,000 clients in over 130 countries.</mark>
           
         description: | # this will include new lines to allow paragraphs
             - Advise on renewal of insurance and offer alternatives with a focus on client experience and risk management
@@ -87,7 +87,7 @@ content:
         sub_title: Corporate Administrator
         caption: October 2017 – October 2018
         quote: > 
-            For more than 27 years, DTOS has been assisting the international business community in structuring their investment vehicle for investment into Africa, Asia and other parts of the world.
+            <mark>For more than 27 years, DTOS has been assisting the international business community in structuring their investment vehicle for investment into Africa, Asia and other parts of the world.</mark>
           
         description: | # this will include new lines to allow paragraphs
             - To assist in the provision of corporate services, including the formation of companies, submission of statutory filings, company secretarial services such as the keeping of minutes and registers, and other ancillary activities
