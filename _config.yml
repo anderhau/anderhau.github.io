@@ -12,7 +12,7 @@ email: alexandre.hau@outlook.com
 website: anderhau.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
 
 # Social links
 twitter_username: sashahau
@@ -55,7 +55,7 @@ content:
       - layout: left
         title: | # this will include new lines to allow paragraphs
             Medilink International Agency (China) Co., Ltd
-            Pacific Prime - Beijing Office
+            - Pacific Prime - Beijing Office
         link: https://pacificprime.cn/en/
         # link_text: https://pacificprime.cn/en/
         sub_title: Relationship Manager
