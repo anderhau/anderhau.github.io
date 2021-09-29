@@ -62,10 +62,10 @@ content:
           Founded in 1999, Pacific Prime has grown to be one of the largest insurance intermediaries in Asia with offices in Hong Kong, Singapore, Thailand, Shanghai and Beijing. Pacific Prime has over 120,000 clients in over 130 countries. 
           
         description: | # this will include new lines to allow paragraphs
-            Advise on renewal of insurance and offer alternatives with a focus on client experience and risk management
-            Aim to preserve client portfolio and improve client retention
-            Maintain knowledge on all complex policies and coverage details
-            Develop new referrals and create new lead for the sales team through my existing clients.
+            - Advise on renewal of insurance and offer alternatives with a focus on client experience and risk management
+            - Aim to preserve client portfolio and improve client retention
+            - Maintain knowledge on all complex policies and coverage details
+            - Develop new referrals and create new lead for the sales team through my existing clients.
             
       - layout: left   
         title: 
@@ -90,10 +90,10 @@ content:
             For more than 27 years, DTOS has been assisting the international business community in structuring their investment vehicle for investment into Africa, Asia and other parts of the world.
           
         description: | # this will include new lines to allow paragraphs
-            ­ To assist in the provision of corporate services, including the formation of companies, submission of statutory filings, company secretarial services such as the keeping of minutes and registers, and other ancillary activities
-            ­ To collect due diligence documentation and prepare engagement letters
-            ­ To assist with administrative tasks relating to corporate structures and regulatory license applications
-            ­ To carry out any other ad hoc assignments related to specific regulatory and supervisory issues that may arise from time to time and to report on the outcome of such assignments as may be appropriate and necessary.
+            - To assist in the provision of corporate services, including the formation of companies, submission of statutory filings, company secretarial services such as the keeping of minutes and registers, and other ancillary activities
+            - To collect due diligence documentation and prepare engagement letters
+            - To assist with administrative tasks relating to corporate structures and regulatory license applications
+            - To carry out any other ad hoc assignments related to specific regulatory and supervisory issues that may arise from time to time and to report on the outcome of such assignments as may be appropriate and necessary.
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
