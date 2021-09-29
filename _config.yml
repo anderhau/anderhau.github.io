@@ -101,7 +101,8 @@ content:
       - layout: left
         title: Monash University
         caption: 2011 - 2016
-        sub_title: Bachelor of Business and Commerce
+          - sub_title: Bachelor of Business and Commerce
+            title: Major in Economics and International Business
         quote: >
           Established in 1998, Monash University Malaysia is the third largest campus of Australia's largest university and the first foreign university campus in Malaysia. Monash University is a premier research-intensive Australian university ranked among the top 100 universities in the world by the Times Higher Education World University Rankings, and a member of Australia’s prestigious Group of Eight (Go8). Monash University is also ranked 58 in the QS 2022 World University Rankings.
           
@@ -119,22 +120,22 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          I have a few ongoing projects and interest that I am pursuing.
+          I started this website as a way if learning Web development and it has since grown into a fully functional website. I have learned many skills through this and been I'm very proud of having this in my skillset.
         description: | # this will include new lines to allow paragraphs
-          I started this website as a way if learning <mark>Web development</mark> and it has since grown into a fully functional website. I have learned many skills through this and been I'm very proud of having this in my skillset.
+          # text
           
       - layout: left
         title: Data Analytics
         sub_title: Google Data Analytics Professional Certificate
         link: https://coursera.org/share/78613ec761445e0bc4b4277c32fb1133
-        link_text: Coursera   
+        link_text: Foundations: Data, Data, Everywhere 
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          I have a few ongoing projects and interest that I am pursuing.
+          # text
         description: | # this will include new lines to allow paragraphs
-          I started this website as a way if learning <mark>Web development</mark> and it has since grown into a fully functional website. I have learned many skills through this and been I'm very proud of having this in my skillset.
+          # text
           
 # Footer
 footer_show_references: true
