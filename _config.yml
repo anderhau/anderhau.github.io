@@ -52,7 +52,7 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+        layout: left
         title: Pacific Prime (Medilink International Agency (China) Co., Ltd)
         link: https://pacificprime.cn/en/
         # link_text: https://pacificprime.cn/en/
@@ -67,7 +67,7 @@ content:
             Maintain knowledge on all complex policies and coverage details
             Develop new referrals and create new lead for the sales team through my existing clients.
             
-      - layout: left   
+        layout: left   
         title: 
         link: https://pacificprime.cn/en/
         # link_text: https://pacificprime.cn/en/
@@ -80,7 +80,7 @@ content:
             - Maintain knowledge on all complex policies and coverage details and assist customers to complete all applications and forms and all required documents.
             - Meet or exceed sales targets, understand and meet multiple performance metrics
             
-       - layout: left   
+        layout: left   
         title: DTOS Ltd
         link: https://www.dtos-mu.com/
         # link_text: https://www.dtos-mu.com/
