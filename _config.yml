@@ -73,10 +73,10 @@ content:
     content:
       - layout: left
         title: Medilink International Agency (China) Co., Ltd
-        sub_title: Pacific Prime, Beijing Office
+        - sub_title: Pacific Prime, Beijing Office
         link: https://pacificprime.cn/en/
         # link_text: https://pacificprime.cn/en/
-        sub_title: Relationship Manager
+        - sub_title: Relationship Manager
         caption: December 2019 – April 2020
         quote: >
           Founded in 1999, Pacific Prime has grown to be one of the largest insurance intermediaries in Asia. Pacific Prime has over 120,000 clients in over 130 countries.As part of an international group with offices in Hong Kong, Singapore, Dubai and Shanghai, we are able to consistently offer our customers the best service, backed by more than a decade of experience developing innovative health insurance solutions for our clients.
@@ -88,20 +88,15 @@ content:
             Develop new referrals and create new lead for the sales team through my existing clients.
             
       - layout: left   
-        title: Medilink International Agency (China) Co., Ltd
-        sub_title: Pacific Prime, Beijing Office
         link: https://pacificprime.cn/en/
         # link_text: https://pacificprime.cn/en/
         sub_title: Consultant
         caption: February 2019 – November 2019
-        quote: >
-          Founded in 1999, Pacific Prime has grown to be one of the largest insurance intermediaries in Asia. Pacific Prime has over 120,000 clients in over 130 countries.As part of an international group with offices in Hong Kong, Singapore, Dubai and Shanghai, we are able to consistently offer our customers the best service, backed by more than a decade of experience developing innovative health insurance solutions for our clients.
-          
-          
+                 
         description: | # this will include new lines to allow paragraphs
-            ­	Delivering comprehensive insurance products and solutions tailored to the needs of the client.
-            ­	Maintain knowledge on all complex policies and coverage details and assist customers to complete all applications and forms and all required documents.
-            ­	Meet or exceed sales targets, understand and meet multiple performance metrics
+            Delivering comprehensive insurance products and solutions tailored to the needs of the client.
+            Maintain knowledge on all complex policies and coverage details and assist customers to complete all applications and forms and all required documents.
+            Meet or exceed sales targets, understand and meet multiple performance metrics
             
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
