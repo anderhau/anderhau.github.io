@@ -101,8 +101,8 @@ content:
       - layout: left
         title: Monash University
         caption: 2011 - 2016
-          - sub_title: Bachelor of Business and Commerce
-            title: Major in Economics and International Business
+        sub_title: Bachelor of Business and Commerce
+        link_text: Majors in Economics and International Business
         quote: >
           Established in 1998, Monash University Malaysia is the third largest campus of Australia's largest university and the first foreign university campus in Malaysia. Monash University is a premier research-intensive Australian university ranked among the top 100 universities in the world by the Times Higher Education World University Rankings, and a member of Australia’s prestigious Group of Eight (Go8). Monash University is also ranked 58 in the QS 2022 World University Rankings.
           
