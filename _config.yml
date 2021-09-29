@@ -125,7 +125,7 @@ content:
           
       - layout: left
         title: Data Analytics
-           - title: Google Data Analytics Professional Certificate
+        sub_title: Google Data Analytics Professional Certificate
              link: https://coursera.org/share/78613ec761445e0bc4b4277c32fb1133
              link_text: Coursera   
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
