@@ -10,8 +10,7 @@ name: Alexandre Y. Hau Hang Sang
 #title: 
 email: alexandre.hau@outlook.com
 # website: anderhau.github.io
-[Download my resume][1]
-[1]:{{ site.url }}/download/Resume - Alexandre Hau.pdf
+Resume: Dwonload my [resume]({{ site.url }}/download/Resume - Alexandre Hau.pdf).
 
 # Dark Mode (true/false/never)
 darkmode: false
