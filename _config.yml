@@ -174,9 +174,9 @@ content:
         description: | # this will include new lines to allow paragraphs
           I joined the course as a way to learn the fundamental of Data Analytics and with the aim to break into this field that I am passionate about.
 
-         - title: A Little More About Me
-      - layout: text
-        content: | # this will include new lines to allow paragraphs
+    - title: A Little More About Me
+      layout: text
+      content: | # this will include new lines to allow paragraphs
           Alongside my interests in Data Analytics and Web Development some of my other interests and hobbies are:
 
           - Rock climbing
