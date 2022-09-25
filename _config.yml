@@ -21,7 +21,7 @@ github_username:  anderhau
 linkedin_username: lxhau
 # xing_username: jekyll
 # pinterest_username: jekyll
-#youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -42,9 +42,9 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+# about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am an early career professional with a Business degree. Experienced in relationship management with proven leadership and communication skills. Managed portfolio of international clients and prospect relationships to maximize net contribution through an emphasis on maintaining quality service for all customers and expanding existing relationships. I am looking to secure a challenging role where I can utilize my skills and add value to the business.
+  Driven and hardworking former client relationship manager with a proven track record of increasing customer satisfaction level. Looking to leverage my creativity, critical thinking and communication skills by transitioning into data analytics field.
   
   I am fluent in both: <mark>English</mark> and <mark>French</mark>
 
@@ -53,32 +53,73 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: SICOM General Insurance
+        link: https://www.sicom.mu/
+        # link_text: 
+        sub_title: Intern (Medical Insurance Deparment)
+        caption: February 2022 – Present
+        quote: >
+          SICOM Group is a leading Financial Services organisation in Mauritius.
+
+        description: | # this will include new lines to allow paragraphs
+            - Optimized workflow by creating dashboard and automating internal processes
+            - Redesigned and overhauled forms and reviewed policy documents
+            - Assisted in the integration and testing of insurance management suite
+
+      - layout: left
+        title: Advantage Thinking International Preschool 
+        # link: 
+        # link_text: 
+        sub_title: English Second Language Teacher
+        caption: February 2021 – August 2021
+        quote: >
+          Advantage Thinking International early childhood education program is the first bilingual program, in Beijing, using the world-renowned Reggio Approach.
+
+        description: | # this will include new lines to allow paragraphs
+           - Designed creative and interactive activities to a class of 15 students (3 to 5 years old)
+           - Presented parents with tailor made reports on students behavioral, social, and developmental progress
+
+      - layout: left
+        title: Freelance
+        # link: 
+        # link_text: 
+        sub_title: English Tutor
+        caption: February 2021 – August 2021
+        quote: >
+          Online and in person individual tutoring of English to help students improve and immerse in the English language
+
+        description: | # this will include new lines to allow paragraphs
+           - Implemented lesson plan to stimulate and motivate students
+           - Monitored student progress and communicated with parent to meet their educational goals
+
+      - layout: left
         title: Pacific Prime
         link: https://pacificprime.cn/en/
         # link_text: https://pacificprime.cn/en/
-        sub_title: Relationship Manager (Beijing Office)
-        caption: December 2019 – April 2020
+        sub_title: Client Relationship Manager (Beijing Office)
+        caption: December 2019 – May 2020
         quote: >
           Founded in 1999, Pacific Prime has grown to be one of the largest insurance intermediaries in Asia with offices in Hong Kong, Singapore, Thailand, Shanghai and Beijing. Pacific Prime has over 120,000 clients in over 130 countries.
           
         description: | # this will include new lines to allow paragraphs
-            - Advise on renewal of insurance and offer alternatives with a focus on client experience and risk management
-            - Aim to preserve client portfolio and improve client retention
-            - Maintain knowledge on all complex policies and coverage details
-            - Develop new referrals and create new lead for the sales team through my existing clients.
+            - Guided clients and offered alternative solutions with a focus on client experience and risk management
+            - Managed and reinforced client portfolio to maximize client retention
+            - Extracted and systematized key information of multiple insurance partners’ policies and coverage details
+            - Generated new referrals and developed new leads for the sales team through existing clients and networking
+
             
       - layout: left   
         title: 
         link: https://pacificprime.cn/en/
         # link_text: https://pacificprime.cn/en/
         sub_title: Consultant (Beijing Office)
-        caption: February 2019 – November 2019
+        caption: March 2019 – November 2019
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-            - Delivering comprehensive insurance products and solutions tailored to the needs of the client.
-            - Maintain knowledge on all complex policies and coverage details and assist customers to complete all applications and forms and all required documents.
-            - Meet or exceed sales targets, understand and meet multiple performance metrics
+            - Delivered comprehensive insurance products and solutions tailored to the needs of the client.
+            - Maintained knowledge on all insurance partners’ policies and coverage details to educate and counsel clients
+            - Promoted the services of Pacific Prime to prospective clients and persuaded leads to use of services.
             
       - layout: left   
         title: DTOS Ltd
@@ -90,10 +131,8 @@ content:
             For more than 27 years, DTOS has been assisting the international business community in structuring their investment vehicle for investment into Africa, Asia and other parts of the world.
           
         description: | # this will include new lines to allow paragraphs
-            - To assist in the provision of corporate services, including the formation of companies, submission of statutory filings, company secretarial services such as the keeping of minutes and registers, and other ancillary activities
-            - To collect due diligence documentation and prepare engagement letters
-            - To assist with administrative tasks relating to corporate structures and regulatory license applications
-            - To carry out any other ad hoc assignments related to specific regulatory and supervisory issues that may arise from time to time and to report on the outcome of such assignments as may be appropriate and necessary.
+            - Provided corporate services, including the formation of companies, submission of statutory filings and company secretarial services.
+            - Reviewed due diligence documentation and prepare engagement letters
           
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -107,9 +146,6 @@ content:
           Established in 1998, Monash University Malaysia is the third largest campus of Australia's largest university and the first foreign university campus in Malaysia. Monash University is a premier research-intensive Australian university ranked among the top 100 universities in the world by the Times Higher Education World University Rankings, and a member of Australia’s prestigious Group of Eight (Go8). Monash University is also ranked 58 in the QS 2022 World University Rankings.
           
         description: | # this will include new lines to allow paragraphs
-          During my time at Monash I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as the project manager of the *Monash Accounting & Finance Club*.
        
   - title: Interests # Title for the section
     layout: list # Type of content section (list/text)
@@ -120,10 +156,10 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          I started this website as a way if learning Web development and it has since grown into a fully functional website. I have learned many skills through this and been I'm very proud of having this in my skillset.
+          Resume Website
         description: | # this will include new lines to allow paragraphs
-              text
-          
+          I started this website resume as a way to learning Web development through a top-down approach more specifically by adapting a template and "reverse engineering" how pieces work together. The main advantage of this approach is that I am able to get a functional website quickly and further down the line I can go more in depth with learning how to use Static Website Generators (Jekyll & Hugo), HTML, CSS and Markdown.
+              
       - layout: left
         title: Data Analytics
         sub_title: Google Data Analytics Professional Certificate
@@ -133,9 +169,21 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          text
+          Professional training designed by Google and a gateway to a new career in the high-growth field of data analytics. 
+          
         description: | # this will include new lines to allow paragraphs
-          text
+          I joined the course as a way to learn the fundamental of Data Analytics and with the aim to break into this field that I am passionate about.
+
+         - title: A Little More About Me
+      - layout: text
+        content: | # this will include new lines to allow paragraphs
+          Alongside my interests in Data Analytics and Web Development some of my other interests and hobbies are:
+
+          - Rock climbing
+          - Bouldering
+          - Linux
+        
+          
           
 # Footer
 footer_show_references: true
