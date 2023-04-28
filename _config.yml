@@ -158,7 +158,7 @@ content:
         quote: >
           Resume Website
         description: | # this will include new lines to allow paragraphs
-          I started this website resume as a way of learning Web development through a top-down approach more specifically by adapting a template and "reverse engineering" how the code works. The main advantage of this approach is that I am able to get a functional website quickly and further down the line I can go more in depth with learning how to use Static Website Generators (Jekyll & Hugo), HTML, CSS and Markdown.
+          I started this website resume as a way of learning Web development through a top-down approach more specifically by adapting a template and learning how the code works by using and breaking it. The main advantage of this approach is that I am able to get a functional website quickly and further down the line I can go more in depth with learning how to use Static Website Generators (Jekyll & Hugo), HTML, CSS and Markdown.
               
       - layout: left
         title: Data Analytics
